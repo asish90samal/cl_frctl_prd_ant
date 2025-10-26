@@ -1,6 +1,6 @@
 """
 generate_fractals.py
-Creates simple illustrative SVG sketches for three antennas.
+Creates simple illustrative SVG/PNG sketches for three antennas.
 Run: python code/generate_fractals.py --outdir ../designs
 """
 import os
